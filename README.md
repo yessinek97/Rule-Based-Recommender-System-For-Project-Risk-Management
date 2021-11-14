@@ -1,4 +1,4 @@
-# Description
+# Rule_Based-Recommender_System-For-Project_Risk_Management
 This project aims to assist project managers by facilitating the risk management task through a web application which is used to provide recommendations based on the search string entered by the user.
 This involved the use of NLP (Natural Language Processing) techniques to automatically generate an ontology from the documents and from which the application can generate recommendations.
 
