@@ -15,7 +15,7 @@ This involved the use of NLP (Natural Language Processing) techniques to automat
 
 # Note
 -Python version == 3.8  
--if you want to re-generate the rdf graph (ontologie), simply download the processes folder, place it under your jupyter workspace then download the   final_project_risk_management.ipynb and place it in the same location, finally make sure all the necessary packages mentioned in the "imports" section are available and run the notebook.  
+-if you want to re-generate the rdf graph (ontology), simply download the processes folder, place it under your jupyter workspace then download the   final_project_risk_management.ipynb and place it in the same location, finally make sure all the necessary packages mentioned in the "imports" section are available and run the notebook.  
 
 # acknowledgement
 This work was accomplished thanks to the efforts of all the collaboratos:  
