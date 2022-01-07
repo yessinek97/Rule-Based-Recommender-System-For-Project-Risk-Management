@@ -3,7 +3,7 @@ This project aims to assist project managers by facilitating the risk management
 This involved the use of NLP (Natural Language Processing) techniques to automatically generate an ontology from the documents and from which the application can generate recommendations.
 
 # How to run
--Download the final_ontology.owl and place it under "C:\users\-username-\Desktop"  
+-Download the final_ontology.owl and place it under "C:\users\username\Desktop"  
 -Create a folder named "Dev" anywhere in your local disk  
 -Open PowerShell or cmd and navigate to the folder's path   
 -Run command: python -m venv "path to folder or simply '.' "  
