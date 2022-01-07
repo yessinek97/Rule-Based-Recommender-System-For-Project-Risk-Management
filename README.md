@@ -6,7 +6,7 @@ This involved the use of NLP (Natural Language Processing) techniques to automat
 -Download the final_ontology.owl and place it under "C:\users\username\Desktop"  
 -Create a folder named "Dev" anywhere in your local disk  
 -Open PowerShell or cmd and navigate to the folder's path   
--Run command: python -m venv "path to folder or simply '.' "  
+-Run command: python -m venv "path to folder" or simply '.'  
 -Download the folder "project" and "requirements.txt"  available in the files section above, and place it under "Dev"  
 -Run command: pip install -R requirements.txt (preferably restart PowerShell/cmd after this step)  
 -Run command: .\Scripts\Activate  
